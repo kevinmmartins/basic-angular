@@ -6,7 +6,29 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm start`
+```bash
+npm install
+npm start
+```
+
+And open your browser to here:
+
+```http
+http://localhost:4200
+```
+
+## Running with Docker Compose
+
+```bash
+ng build
+docker-compose build
+docker-compose up
+```
+And open your browser to here:
+
+```http
+http://localhost:3000
+```
 
 ## Tutorial
 
