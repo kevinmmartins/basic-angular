@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-And open your browser to here:
+And open your browser here:
 
 ```http
 http://localhost:4200
@@ -24,7 +24,7 @@ ng build
 docker-compose build
 docker-compose up
 ```
-And open your browser to here:
+And open your browser here:
 
 ```http
 http://localhost:3000
